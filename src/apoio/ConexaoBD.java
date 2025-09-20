@@ -10,7 +10,7 @@ import java.sql.*;
 import java.io.*;
 import java.util.*;
 
-public class ConexaoBD {
+public class ConexaoBD { 
     
     private static ConexaoBD instancia = null;
     private Connection conexao = null;
